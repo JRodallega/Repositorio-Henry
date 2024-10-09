@@ -1,2 +1,3 @@
-# Repositorio-Henry
-Repositorio de prueba de estudio de Henry
+jose rodallega
+
+prueba de como crear un repositorio y clonarlo con Github
